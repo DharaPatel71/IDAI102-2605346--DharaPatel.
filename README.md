@@ -66,7 +66,7 @@ Users can also generate and download medicine records in CSV format for convenie
 ### 🌐 Live Application
 
 **Live App Link:**  
-[Open MedTimer](PASTE-YOUR-STREAMLIT-LINK-HERE)
+[Open MedTimer]medtimerpy-jjxjyd5a83dnbgbyp3urt8
 
 ### 📸 Application Screenshots
 
